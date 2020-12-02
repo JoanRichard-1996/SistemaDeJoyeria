@@ -5,7 +5,7 @@
  */
 
 package presentacion;
-
+ 
 import ImprimirClases.Ticket;
 import java.awt.image.BufferedImage;
 import java.io.IOException;

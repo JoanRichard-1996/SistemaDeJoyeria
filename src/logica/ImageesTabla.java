@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package logica;
-
+ 
 import java.awt.Component;
 import javax.swing.JLabel;
 import javax.swing.JTable;

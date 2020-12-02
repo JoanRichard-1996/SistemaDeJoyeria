@@ -4,7 +4,6 @@
  * and open the template in the editor.
  */
 package presentacion;
-
 import java.awt.image.BufferedImage;
 import java.io.IOException;
 import java.io.InputStream;

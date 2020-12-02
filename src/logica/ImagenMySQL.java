@@ -13,7 +13,7 @@ public class ImagenMySQL extends javax.swing.JPanel {
         this.ruta = ruta;
         ruta=null;
     }
-
+ 
 //Se crea un método cuyo parámetro debe ser un objeto Graphics
     public void paint(Graphics grafico) {
         Dimension height = getSize();

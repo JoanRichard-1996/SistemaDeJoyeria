@@ -4,7 +4,7 @@
  * and open the template in the editor.
  */
 package presentacion;
-
+ 
 import ImprimirClases.Ticket;
 import java.awt.image.BufferedImage;
 import java.io.IOException;

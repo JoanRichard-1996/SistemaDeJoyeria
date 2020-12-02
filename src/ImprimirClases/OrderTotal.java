@@ -1,5 +1,5 @@
 package ImprimirClases;
-
+ 
 public class OrderTotal {
 
     char[] temp = new char[]{' '};

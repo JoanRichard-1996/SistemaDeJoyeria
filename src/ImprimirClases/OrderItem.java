@@ -7,7 +7,7 @@ public class OrderItem {
     public OrderItem(char delimit) {
         temp = new char[]{delimit};
     }
-
+ 
     public String GetItemCantidad(String orderItem) {
         String[] delimitado = orderItem.split("" + temp);
         return delimitado[0];
